@@ -11,3 +11,5 @@ If you need help with setting up the bot or would like to discuss other things r
 
 # Run Command
 ```node index.js```
+# if i doesn't work use this COmmand
+``` git clone https://github.com/Sail100/modmail56```
