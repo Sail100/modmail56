@@ -7,4 +7,4 @@ If you need help with setting up the bot or would like to discuss other things r
 
 
 # Host On Repl.it
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://replit.com/github.com/Sail100/modmail56/)
+[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://replit.com/github/Sail100/modmail56/)
