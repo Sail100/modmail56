@@ -2,7 +2,7 @@ const discord = require("discord.js");
 const client = new discord.Client()
 const { prefix, ServerID } = require("./config.json")
 const config = require('./config.json');
-.
+
 client.on("ready", () => {
 
     console.log("Bot online")
