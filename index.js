@@ -6,7 +6,7 @@ const config = require('./config.json');
 client.on("ready", () => {
 
     console.log("Bot online")
-    client.user.setActivity("Watching My Dm's")
+    client.user.setActivity("Watching My Dm's For Support Coded By ItsMC#0001")
 })
 
 
