@@ -1,5 +1,5 @@
 
 ## Update 2
- Fixed Bug giving everyone staff
+ Fixed the bug everyone having staff.
 ## Update 1 
 Bug Fixes.
